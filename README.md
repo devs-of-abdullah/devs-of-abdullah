@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 3rd-year Software Engineering student focused on full-stack development and writing clean, well-structured code. With a strong programming foundation, I can quickly learn and adapt to new languages and technologies. I’m currently open to internship and part-time job opportunities to improve my development skills and gain industry experience.
+I’m a 3rd-year Software Engineering student focused on .NET Backend development and writing clean, well-structured code. With a strong programming foundation, I can quickly learn and adapt to new languages and technologies. I’m currently open to internship and part-time job opportunities to improve my development skills and gain industry experience.
 
 
 ## 🌐 Socials:
@@ -7,7 +7,7 @@ I’m a 3rd-year Software Engineering student focused on full-stack development 
 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 
 
