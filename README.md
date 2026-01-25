@@ -1,5 +1,6 @@
-# 💫 About Me:
+#  About Me:
 I’m a 3rd-year Software Engineering student focused on .NET ecosystem development and writing clean, well-structured code. With a strong programming foundation, so i can quickly learn and adapt to new languages and technologies. I’m currently open to internship and part-time job opportunities to improve my development skills and gain industry experience.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devs-of-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="devs-of-abdullah" /> </p>
 
 
 ## 🌐 Socials:
