@@ -1,5 +1,5 @@
 #  About Me:
-I’m a 3rd-year Software Engineering student focused on .NET ecosystem development and writing clean, well-structured code. With a strong programming foundation, so i can quickly learn and adapt to new languages and technologies. I’m currently open to internship and part-time job opportunities to improve my development skills and gain industry experience.
+I’m a third-year Software Engineering student focused on full-stack development, building well-structured and maintainable applications with clean, well-designed software practices. I have a strong programming foundation, which allows me to quickly adapt to new tools and technologies. I’m currently for internship or part-time opportunities to gain working experience on real-world projects.
 
 
 ## Socials:
@@ -7,7 +7,8 @@ I’m a 3rd-year Software Engineering student focused on .NET ecosystem developm
 
 
 # Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+
 
 
 
