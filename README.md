@@ -1,5 +1,5 @@
 #  About Me:
-I’m a third-year Software Engineering student focused on full-stack development, building well-structured and maintainable applications with clean, well-designed software practices. I have a strong programming foundation, which allows me to quickly adapt to new tools and technologies. I’m currently open for internship or part-time opportunities to gain working experience on real-world projects.
+I’m a third-year Software Engineering student focused on backend development, building well-structured and maintainable applications with clean, well-designed software practices. I have a strong programming foundation, which allows me to quickly adapt to new tools and technologies. I’m currently open for internship or part-time opportunities to gain working experience on real-world projects.
 
 
 ## Socials:
